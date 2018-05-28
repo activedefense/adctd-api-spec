@@ -1,0 +1,72 @@
+swagger: "2.0"
+info:
+  description: "Look up Malicious Location in Cyber Tactical Database"
+  version: "1.0.0"
+  title: "Cyber Tactical Database Malicous Location API"
+  termsOfService: ""
+  contact:
+    email: "ctd@activedefense.co.jp"
+  license:
+    name: "Commercial"
+    url: ""
+paths:
+  /mall0cs:
+    get:
+      tags: [MaliciousLocation]
+      summary: List of MaliciousLocation in Cyber Tactical Database
+      description: Return list of MaliciousLocation in Cyber Tactical Database
+      operationId: getMall0cList
+      responses:
+        '200':
+          description: successful operation
+          schema:
+            title: Mall0c
+            type: array
+            items:
+              $ref: '#/definitions/MaliciousLocation'
+    post:
+      tags: [MaliciousLocation]
+      summary: Register Malicious Location 
+      description: Create new Malicious Location
+      operationId: createMalicousLocation
+      parameters:
+        - name: mall0c
+          in: body
+          description: mall0c parameter
+          required: true
+          schema:
+            $ref: '#/definitions/MaliciousLocation'
+      responses:
+        '200':
+          description: successful operation
+          schema:
+            title: mall0c
+            $ref: '#/definitions/MaliciousLocation'
+
+definitions:
+  MaliciousLocation:
+    type: object
+    required: [uuid, url, domain, ip, last_observed_datetime]
+    properties:
+      id:
+        type: integer
+        description: Unique id
+        readOnly: true
+        example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
+      url:
+        type: string
+        description: Malicious URL
+        example: http://malicous/
+      domain:
+        type: string
+        description: Malicious resource contained domain
+        example: malicous
+      ip:
+        type: string
+        description: Malicious resource containted IP address
+        example: 1.1.1.1
+      last_observed_datetime:
+        type: string
+        format: date
+        description: last observed datetime
+        example: 2018-06-01
