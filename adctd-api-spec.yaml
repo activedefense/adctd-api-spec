@@ -1,72 +1,137 @@
 swagger: "2.0"
 info:
-  description: "Look up Malicious Location in Cyber Tactical Database"
+  description: "Look up Malicious URI in Cyber Tactical Database"
   version: "1.0.0"
-  title: "Cyber Tactical Database Malicous Location API"
+  title: "Cyber Tactical Database API"
   termsOfService: ""
   contact:
     email: "ctd@activedefense.co.jp"
+    url: https://github.com/activedefense/adctd-api-spec
   license:
     name: "Commercial"
     url: ""
+
+host: api.ctd.activedefense.co.jp
+basePath: /api/v1
+schemes:
+  - http
+  - https
+consumes:
+  - application/json
+produces:
+  - application/json
+
 paths:
-  /mall0cs:
+  /malicious/uri/{id}:
+    parameters:
+      - name: id
+        in: path
+        description: Malicious Entry URI id
+        required: true
+        type: string
+        format: uuid
     get:
-      tags: [MaliciousLocation]
-      summary: List of MaliciousLocation in Cyber Tactical Database
-      description: Return list of MaliciousLocation in Cyber Tactical Database
-      operationId: getMall0cList
+      tags: [MaliciousUri]
+      summary: Detail of Malicious Entry URI
+      description: 
+      operationId: GetMaliciousURIById
+      responses:
+        '200':
+          description: Malicious Entry URI
+          schema:
+            "$ref": '#/definitions/MaliciousUri'
+
+  /malicious/uri/type/ek:
+    get:
+      tags: [MaliciousUri]
+      summary: List of Malicious Entry URI (Exploit Kit) in Cyber Tactical Database
+      description: Return list of Malicious Entry URI (Exploit Kit) in Cyber Tactical Database
+      operationId: GetMaliciousURIofEK
       responses:
         '200':
           description: successful operation
           schema:
-            title: Mall0c
             type: array
             items:
-              $ref: '#/definitions/MaliciousLocation'
-    post:
-      tags: [MaliciousLocation]
-      summary: Register Malicious Location 
-      description: Create new Malicious Location
-      operationId: createMalicousLocation
-      parameters:
-        - name: mall0c
-          in: body
-          description: mall0c parameter
-          required: true
-          schema:
-            $ref: '#/definitions/MaliciousLocation'
+              "$ref": '#/definitions/MaliciousUri'
+
+  /malicious/uri/type/malware:
+    get:
+      tags: [MaliciousUri]
+      summary: List of Malicious Entry URI (Malware Download URI) in Cyber Tactical Database
+      description: Return list of Malicious Entry URI (Malware Download URI) in Cyber Tactical Database
+      operationId: get_mal_uri_dl_malware
       responses:
         '200':
           description: successful operation
           schema:
-            title: mall0c
-            $ref: '#/definitions/MaliciousLocation'
+            type: array
+            items:
+              "$ref": '#/definitions/MaliciousUri'
 
 definitions:
-  MaliciousLocation:
-    type: object
-    required: [uuid, url, domain, ip, last_observed_datetime]
+  MaliciousUri:
     properties:
       id:
-        type: integer
-        description: Unique id
-        readOnly: true
-        example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
+        type: string
+        format: uuid
+        description: Unique id of ADCTD
+        # readOnly: true
+        # example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
+      type:
+        type: string
+        description: type of Indicator
+        # readOnly: true
+        # example: url
+      is_infected:
+        type: boolean
+        description: estimate source subject infection status before uri access 
+        # readOnly: true
+        # example: false    
       url:
         type: string
+        format: uri
         description: Malicious URL
-        example: http://malicous/
+        # readOnly: true
+        # example: http://worth.lobelqq.sample/hummingbird.htm
       domain:
         type: string
+        format: hostname
         description: Malicious resource contained domain
-        example: malicous
+        # readOnly: true
+        # example: worth.lobelqq.sample
       ip:
         type: string
+        format: ipv4
         description: Malicious resource containted IP address
-        example: 1.1.1.1
-      last_observed_datetime:
+        # readOnly: true
+        # example: 1.1.1.1
+      description: 
         type: string
-        format: date
-        description: last observed datetime
-        example: 2018-06-01
+        description: Campaign, Tool Kit, or Species if indentified
+        # readOnly: true
+        # example: TIG Exploit Kit
+      malicious_rate:
+        type: integer
+        description: Malicious rate, 10 is perfectly 
+        # example: 10
+      created_at:
+        type: string
+        format: date-time
+        description: created datetime of this entry 
+        # readOnly: true
+        # example: 2018-06-01T00:00:00Z
+      updated_at:
+        type: string
+        format: date-time
+        description: updated datetime of this entry 
+        # readOnly: true
+        # example: 2018-06-01T00:00:00Z
+      expire_at:
+        type: string
+        format: date-time
+        description: expire datetime of this entry 
+        # readOnly: true
+        # example: 2018-06-01T10:00:00Z
+
+
