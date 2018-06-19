@@ -1,4 +1,4 @@
-swagger: "2.0"
+swagger: "3.0"
 info:
   description: "Look up Malicious URI in Cyber Tactical Database"
   version: "1.0.0"
@@ -12,7 +12,7 @@ info:
     url: ""
 
 host: api.ctd.activedefense.co.jp
-basePath: /api/v1
+basePath: /v1
 schemes:
   - http
   - https
@@ -21,56 +21,10 @@ consumes:
 produces:
   - application/json
 
-paths:
-  /malicious/uri/{id}:
-    parameters:
-      - name: id
-        in: path
-        description: Malicious Entry URI id
-        required: true
-        type: string
-        format: uuid
-    get:
-      tags: [MaliciousUri]
-      summary: Detail of Malicious Entry URI
-      description: 
-      operationId: GetMaliciousURIById
-      responses:
-        '200':
-          description: Malicious Entry URI
-          schema:
-            "$ref": '#/definitions/MaliciousUri'
-
-  /malicious/uri/type/ek:
-    get:
-      tags: [MaliciousUri]
-      summary: List of Malicious Entry URI (Exploit Kit) in Cyber Tactical Database
-      description: Return list of Malicious Entry URI (Exploit Kit) in Cyber Tactical Database
-      operationId: GetMaliciousURIofEK
-      responses:
-        '200':
-          description: successful operation
-          schema:
-            type: array
-            items:
-              "$ref": '#/definitions/MaliciousUri'
-
-  /malicious/uri/type/malware:
-    get:
-      tags: [MaliciousUri]
-      summary: List of Malicious Entry URI (Malware Download URI) in Cyber Tactical Database
-      description: Return list of Malicious Entry URI (Malware Download URI) in Cyber Tactical Database
-      operationId: get_mal_uri_dl_malware
-      responses:
-        '200':
-          description: successful operation
-          schema:
-            type: array
-            items:
-              "$ref": '#/definitions/MaliciousUri'
 
 definitions:
   MaliciousUri:
+    type: object
     properties:
       id:
         type: string
@@ -111,10 +65,10 @@ definitions:
         description: Campaign, Tool Kit, or Species if indentified
         # readOnly: true
         # example: TIG Exploit Kit
-      malicious_rate:
-        type: integer
-        description: Malicious rate, 10 is perfectly 
-        # example: 10
+      confidence:
+        type: string
+        description: high, medium, low
+        # example: high
       created_at:
         type: string
         format: date-time
@@ -133,5 +87,56 @@ definitions:
         description: expire datetime of this entry 
         # readOnly: true
         # example: 2018-06-01T10:00:00Z
+
+securityDefinitions:
+   # X-API-Key: abcdef12345
+   APIKeyHeader:
+     type: apiKey
+     in: header
+     name: x-api-key
+
+security:
+  - APIKeyHeader: []
+paths:
+  # /malicious/uri/{id}:
+    # parameters:
+      # - name: id
+        # in: path
+        # description: Malicious Entry URI id
+        # required: true
+        # type: string
+        # format: uuid
+    # get:
+      # tags: [MaliciousUri]
+      # summary: Detail of Malicious Entry URI
+      # description: 
+      # operationId: GetMaliciousURIById
+      # responses:
+        # '200':
+          # description: Malicious Entry URI
+          # schema:
+            # "$ref": '#/definitions/MaliciousUri'
+
+  /malicious/uri:
+    get:
+      tags: [MaliciousUri]
+      summary: List of Malicious Entry URI in Cyber Tactical Database
+      description: Return list of Malicious Entry URI in Cyber Tactical Database
+      produces:
+      - application/json
+      operationId: GetMaliciousURIs
+      parameters:
+        - in: query
+          name: type
+          schema:
+            type: string
+          description: \"ek\" or \"dl_malware\" is supported. If specified \"ek\", you can get Exploit Kit related uri lists. If specified \"dl_malware\", you can get malware related uri lists. 
+      responses:
+        '200':
+          description: successful operation
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/MaliciousUri'
 
 
