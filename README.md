@@ -1,3 +1,12 @@
+## 概要
+日本への脅威にフォーカスした脅威情報の配信サービスの提供を開始します。
+弊社独自のマルウェア配信プラットフォーム観測と自動解析を用い、マルウェアの配信元を継続的に監視しており、1時間おきに日本国内からの到達可能性やドメイン・IP情報を更新し配信しております。
+JSON形式でのご提供になりますが、既にご要望頂いているTAXII/STIX2.0対応についても順次進めて参ります。
+
+## 試用期間について
+現在は試験公開中であり、7/31までは無料でお使い頂けます。
+通常、1ヶ月の試用期間を設けております。
+
 # Active Defense Cyber Tactical Database API Specification and API clients
 Swagger generated docs: [https://www.activedefense.co.jp/adctd-api-spec/][1]
 
