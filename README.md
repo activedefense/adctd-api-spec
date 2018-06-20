@@ -28,7 +28,7 @@ $ curl https://api.ctd.activedefense.co.jp/v1/malicious/uri?type=ek \
 
 # Contacts
 Mail:
-ctd-admin &#064; activedefense.co.jp
+ctd-info &#064; activedefense.co.jp
 
 Web: 
 https://www.activedefense.co.jp/
