@@ -702,24 +702,24 @@ margin-bottom: 20px;
     "id" : {
       "type" : "string",
       "format" : "uuid",
-      "example" : "dd01da19-ef8a-4583-adbc-d7a47c76adcb",
       "description" : "Unique id of ADCTD"
     },
     "type" : {
       "type" : "string",
-      "example" : "url",
       "description" : "type of Indicator"
+    },
+    "is_infected" : {
+      "type" : "boolean",
+      "description" : "estimate source subject infection status before uri access"
     },
     "url" : {
       "type" : "string",
       "format" : "uri",
-      "example" : "http://worth.lobelqq.sample/hummingbird.htm",
       "description" : "Malicious URL"
     },
     "domain" : {
       "type" : "string",
       "format" : "hostname",
-      "example" : "worth.lobelqq.sample",
       "description" : "Malicious resource contained domain"
     },
     "ip" : {
@@ -729,39 +729,26 @@ margin-bottom: 20px;
     },
     "description" : {
       "type" : "string",
-      "example" : "Example Exploit Kit",
       "description" : "Campaign, Tool Kit, or Species if indentified"
     },
     "confidence" : {
       "type" : "string",
-      "example" : "high",
       "description" : "high, medium, low"
     },
     "created_at" : {
       "type" : "string",
       "format" : "date-time",
-      "example" : "2018-10-01T00:00:00.000+0000",
       "description" : "created datetime of this entry"
     },
     "updated_at" : {
       "type" : "string",
       "format" : "date-time",
-      "example" : "2018-10-01T00:00:00.000+0000",
       "description" : "updated datetime of this entry"
     },
     "expire_at" : {
       "type" : "string",
       "format" : "date-time",
-      "example" : "2018-10-02T00:00:00.000+0000",
       "description" : "expire datetime of this entry"
-    },
-    "cve_numbers" : {
-      "type" : "array",
-      "example" : [ "CVE-2018-0000" ],
-      "items" : {
-        "type" : "string",
-        "description" : "Related CVE Number"
-      }
     }
   }
 };
@@ -798,7 +785,7 @@ margin-bottom: 20px;
         <div id="header">
           <div id="api-_">
             <h2 id="welcome-to-apidoc">API and SDK Documentation</h2>
-              <div class="app-desc">Version: 2.0.0</div>
+              <div class="app-desc">Version: 1.0.0</div>
             <hr>
             <div>Look up Malicious URI in Cyber Tactical Database</div>
           </div>
@@ -838,7 +825,7 @@ margin-bottom: 20px;
 
                         <div class="tab-content">
                           <div class="tab-pane active" id="examples-MaliciousUri-getMaliciousURIs-0-curl">
-                            <pre class="prettyprint"><code class="language-bsh">curl -X GET -H "x-api-key: [[apiKey]]" "http://api.ctd.activedefense.co.jp/v2/malicious/uri?type="</code></pre>
+                            <pre class="prettyprint"><code class="language-bsh">curl -X GET -H "x-api-key: [[apiKey]]" "http://api.ctd.activedefense.co.jp/v1/malicious/uri?type="</code></pre>
                           </div>
                           <div class="tab-pane" id="examples-MaliciousUri-getMaliciousURIs-0-java">
                             <pre class="prettyprint"><code class="language-java">import io.swagger.client.*;
@@ -1154,7 +1141,7 @@ except ApiException as e:
           </div>
           <div id="generator">
             <div class="content">
-              Generated 2018-10-14T17:38:31.589+09:00
+              Generated 2018-06-19T19:34:26.147+09:00
             </div>
           </div>
       </div>
