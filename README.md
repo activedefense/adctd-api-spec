@@ -3,12 +3,13 @@ AD-CTDは、株式会社アクティブディフェンス研究所が、イン�
 
 # Active Defense Cyber Tactical Database API仕様及びJSONクライアント
 ドキュメント: [https://www.activedefense.co.jp/adctd-api-spec/][1]
+SchemaがUndefinedとなっていますが、▶を二度クリックすると表示されます。
 
 # APIエンドポイント
 ## v2(最新)
 - https://api.ctd.activedefense.co.jp/v2/malicious/uri
 
-## v1(deprecated)
+## v1
 - https://api.ctd.activedefense.co.jp/v1/malicious/uri
 
 # API Callサンプル
@@ -56,6 +57,7 @@ AD-CTD API provides as JSON format only.
 
 # Active Defense Cyber Tactical Database API Specification and API clients
 Swagger generated docs: [https://www.activedefense.co.jp/adctd-api-spec/][1]
+If you see "Undefined" in Schema, please twice click to Schema triangle.
 
 # API Endpoints
 - https://api.ctd.activedefense.co.jp/v2/malicious/uri
