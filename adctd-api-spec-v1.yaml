@@ -1,7 +1,7 @@
 swagger: "3.0"
 info:
   description: "Look up Malicious URI in Cyber Tactical Database"
-  version: "2.0.0"
+  version: "1.0.0"
   title: "Cyber Tactical Database API"
   termsOfService: ""
   contact:
@@ -12,7 +12,7 @@ info:
     url: ""
 
 host: api.ctd.activedefense.co.jp
-basePath: /v2
+basePath: /v1
 schemes:
   - http
   - https
@@ -31,28 +31,29 @@ definitions:
         format: uuid
         description: Unique id of ADCTD
         # readOnly: true
-        example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
-        
+        # example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
       type:
         type: string
         description: type of Indicator
         # readOnly: true
-        example: url
-
+        # example: url
+      is_infected:
+        type: boolean
+        description: estimate source subject infection status before uri access 
+        # readOnly: true
+        # example: false    
       url:
         type: string
         format: uri
         description: Malicious URL
         # readOnly: true
-        example: http://worth.lobelqq.sample/hummingbird.htm
-
+        # example: http://worth.lobelqq.sample/hummingbird.htm
       domain:
         type: string
         format: hostname
         description: Malicious resource contained domain
         # readOnly: true
-        example: worth.lobelqq.sample
-
+        # example: worth.lobelqq.sample
       ip:
         type: string
         format: ipv4
@@ -62,43 +63,30 @@ definitions:
       description: 
         type: string
         description: Campaign, Tool Kit, or Species if indentified
-        example: Example Exploit Kit
         # readOnly: true
         # example: TIG Exploit Kit
       confidence:
         type: string
         description: high, medium, low
-        example: high
-
+        # example: high
       created_at:
         type: string
         format: date-time
         description: created datetime of this entry 
-        example: 2018-10-01T00:00:00Z
         # readOnly: true
         # example: 2018-06-01T00:00:00Z
       updated_at:
         type: string
         format: date-time
         description: updated datetime of this entry 
-        example: 2018-10-01T00:00:00Z
         # readOnly: true
         # example: 2018-06-01T00:00:00Z
       expire_at:
         type: string
         format: date-time
-        description: expire datetime of this entry
-        example: 2018-10-02T00:00:00Z
+        description: expire datetime of this entry 
         # readOnly: true
-        
-      cve_numbers:
-        type: array
-        items:
-          type: string
-          description: Related CVE Number
-        example: ["CVE-2018-0000"]
-
-  
+        # example: 2018-06-01T10:00:00Z
 
 securityDefinitions:
    # X-API-Key: abcdef12345
@@ -150,4 +138,5 @@ paths:
             type: array
             items:
               $ref: '#/definitions/MaliciousUri'
+
 
