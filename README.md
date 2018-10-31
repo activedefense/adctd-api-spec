@@ -3,6 +3,7 @@ AD-CTDは、株式会社アクティブディフェンス研究所が、イン�
 
 # Active Defense Cyber Tactical Database API仕様及びJSONクライアント
 ドキュメント: [https://www.activedefense.co.jp/adctd-api-spec/][1]
+
 SchemaがUndefinedとなっていますが、▶を二度クリックすると表示されます。
 
 # APIエンドポイント
