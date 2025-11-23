@@ -1,0 +1,262 @@
+openapi: 3.0.3
+info:
+  title: CTD Phishing Domain API
+  description: |
+    フィッシング悪性ドメイン情報を提供するAPI。
+
+    稼働中（online）または空ページ（empty_content）状態の悪性ドメインをJSON形式で提供します。
+    判定日から7日以内のドメインのみを対象とし、最後の稼働確認日から7日後に自動的に期限切れとなります。
+
+    ## データソース
+    - フィッシングメールから抽出された悪性ドメイン
+    - URL稼働状況、Whois情報、IP地理情報でエンリッチ
+
+    ## 更新頻度
+    - 1時間ごとに自動更新
+
+    ## 帰属表示
+    - IP地理情報: "Data provided by IPinfo (https://ipinfo.io/)" (CC BY-SA 4.0)
+  version: 1.0.0
+  contact:
+    name: Active Defense CTD Team
+servers:
+  - url: https://api.ctd.activedefense.co.jp
+    description: Production API
+paths:
+  /phishingjp/latest:
+    get:
+      summary: 最新の悪性ドメイン一覧を取得
+      description: |
+        稼働中の悪性ドメイン情報をJSON形式で取得します。
+
+        フィルタリング条件:
+        - 判定日（registered_at）から7日以内のドメイン
+        - URL稼働状況が「稼働中」(online)または「空ページ」(empty_content)
+      operationId: getLatestMaliciousDomains
+      tags:
+        - Malicious Domains
+      responses:
+        '200':
+          description: 成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MaliciousDomainsResponse'
+              example:
+                data:
+                  - domain: "evil-phishing.cn"
+                    source: "ヒューリスティック判定"
+                    impersonated_target: "Amazon"
+                    sent_date: "2025-11-22"
+                    registered_at: "2025-11-22 17:13:20"
+                    expired_at: "2025-11-29 17:16:28"
+                    url_status:
+                      status: "online"
+                      http_status_code: 200
+                      content_length: 12345
+                    whois:
+                      registrar: "Example Registrar"
+                      creation_date: "2025-11-20"
+                      expiration_date: "2026-11-20"
+                    ip_info:
+                      ip_address: "104.21.12.187"
+                      country: "US"
+                      as_number: 13335
+                      as_name: "Cloudflare, Inc."
+                count: 224
+                exported_at: "2025-11-23T07:55:22.061638"
+                filter_criteria:
+                  registered_within_days: 7
+                  url_status:
+                    - "online"
+                    - "empty_content"
+        '500':
+          description: サーバーエラー
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+components:
+  schemas:
+    MaliciousDomainsResponse:
+      type: object
+      required:
+        - data
+        - count
+        - exported_at
+        - filter_criteria
+      properties:
+        data:
+          type: array
+          description: 悪性ドメインのリスト
+          items:
+            $ref: '#/components/schemas/MaliciousDomain'
+        count:
+          type: integer
+          description: 悪性ドメインの総数
+          example: 224
+        exported_at:
+          type: string
+          format: date-time
+          description: エクスポート日時（ISO 8601形式）
+          example: "2025-11-23T07:55:22.061638"
+        filter_criteria:
+          $ref: '#/components/schemas/FilterCriteria'
+
+    MaliciousDomain:
+      type: object
+      required:
+        - domain
+        - source
+        - impersonated_target
+        - sent_date
+        - registered_at
+        - expired_at
+      properties:
+        domain:
+          type: string
+          description: 悪性ドメイン名（FQDN）
+          example: "evil-phishing.cn"
+        source:
+          type: string
+          description: 判定ソース
+          enum:
+            - "ヒューリスティック判定"
+            - "SpamHaus"
+            - "手動確認"
+            - "URLScan.io"
+            - "VirusTotal"
+          example: "ヒューリスティック判定"
+        impersonated_target:
+          type: string
+          description: 偽装先企業・サービス名
+          example: "Amazon"
+        sent_date:
+          type: string
+          format: date
+          description: フィッシングメールの送信日
+          example: "2025-11-22"
+        registered_at:
+          type: string
+          description: |
+            判定日時（JST、YYYY-MM-DD HH:MM:SS形式）
+            悪性ドメインとしてシステムに登録された日時
+          example: "2025-11-22 17:13:20"
+        expired_at:
+          type: string
+          description: |
+            有効期限（JST、YYYY-MM-DD HH:MM:SS形式）
+            最後の稼働確認日から7日後の日時。
+            この日時を過ぎるとAPIレスポンスから除外される。
+          example: "2025-11-29 17:16:28"
+        url_status:
+          $ref: '#/components/schemas/URLStatus'
+        whois:
+          $ref: '#/components/schemas/WhoisInfo'
+        ip_info:
+          $ref: '#/components/schemas/IPInfo'
+
+    URLStatus:
+      type: object
+      nullable: true
+      description: URL稼働状況（最新のチェック結果）
+      properties:
+        status:
+          type: string
+          description: 稼働状況
+          enum:
+            - "online"
+            - "empty_content"
+          example: "online"
+        http_status_code:
+          type: integer
+          nullable: true
+          description: HTTPステータスコード
+          example: 200
+        content_length:
+          type: integer
+          nullable: true
+          description: レスポンスのコンテンツ長（バイト）
+          example: 12345
+
+    WhoisInfo:
+      type: object
+      nullable: true
+      description: Whois情報（ドメイン登録情報）
+      properties:
+        registrar:
+          type: string
+          nullable: true
+          description: レジストラ名
+          example: "阿里云计算有限公司（万网）"
+        creation_date:
+          type: string
+          format: date
+          nullable: true
+          description: ドメイン登録日
+          example: "2025-11-20"
+        expiration_date:
+          type: string
+          format: date
+          nullable: true
+          description: ドメイン有効期限
+          example: "2026-11-20"
+
+    IPInfo:
+      type: object
+      nullable: true
+      description: |
+        IP地理情報（悪性ドメインが解決されるIPアドレスの情報）
+        Data provided by IPinfo (https://ipinfo.io/)
+      properties:
+        ip_address:
+          type: string
+          format: ipv4
+          description: IPアドレス
+          example: "104.21.12.187"
+        country:
+          type: string
+          description: 国コード（ISO 3166-1 alpha-2）
+          example: "US"
+        as_number:
+          type: integer
+          nullable: true
+          description: AS番号
+          example: 13335
+        as_name:
+          type: string
+          nullable: true
+          description: AS名（組織名）
+          example: "Cloudflare, Inc."
+
+    FilterCriteria:
+      type: object
+      description: データのフィルタリング条件
+      properties:
+        registered_within_days:
+          type: integer
+          description: 判定日からの有効日数
+          example: 7
+        url_status:
+          type: array
+          description: 対象とするURL稼働状況
+          items:
+            type: string
+          example:
+            - "online"
+            - "empty_content"
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+          description: エラーメッセージ
+          example: "Internal server error"
+        timestamp:
+          type: string
+          format: date-time
+          description: エラー発生日時
+tags:
+  - name: Malicious Domains
+    description: 悪性ドメイン情報の取得

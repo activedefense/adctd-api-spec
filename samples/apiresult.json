@@ -1,0 +1,3795 @@
+{
+  "data": [
+    {
+      "domain": "0yjmvy68.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:20",
+      "expired_at": "2025-11-29 17:16:28",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3821
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "13q0mcli.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京電力エナジーパートナー",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:02:49",
+      "expired_at": "2025-11-28 18:02:54",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3821
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "1bj4w1cf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京ガス",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:32",
+      "expired_at": "2025-11-28 18:04:30",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "3p1d5utp.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "メルカリ",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:04:09",
+      "expired_at": "2025-11-29 17:25:29",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "81sqb47a.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ヨドバシカメラ",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:22",
+      "expired_at": "2025-11-27 18:01:37",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "8ncwvruc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JALマイレージバンク",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:47",
+      "expired_at": "2025-11-27 16:54:49",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "aliayqg.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 21:35:05",
+      "expired_at": "2025-11-27 21:35:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "atomiccitychildrenstheater.com",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:07",
+      "expired_at": "2025-11-29 17:13:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 47
+      },
+      "whois": {
+        "registrar": "Domainsalsa.com LLC",
+        "creation_date": "2024-12-11",
+        "expiration_date": "2025-12-11"
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "axesbzjmdm.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:07:17",
+      "expired_at": "2025-11-28 18:07:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bdeyzwt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "マスターカード",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:18",
+      "expired_at": "2025-11-30 07:15:59",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "bgenad.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:16:49",
+      "expired_at": "2025-11-27 17:13:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bgvjm.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:59",
+      "expired_at": "2025-11-28 18:06:59",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bhsuflsq.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:03",
+      "expired_at": "2025-11-29 17:14:00",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bisibility.muchc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:45:30",
+      "expired_at": "2025-11-27 16:49:33",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1834
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bitmk8t5.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JALマイレージバンク",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 06:58:03",
+      "expired_at": "2025-11-30 07:13:14",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "bivfwny.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ファミリーマート",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-23 07:15:44",
+      "expired_at": "2025-11-30 07:15:43",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "bnncrfwki.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:55:43",
+      "expired_at": "2025-11-26 18:55:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bnvcoee.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:04:12",
+      "expired_at": "2025-11-29 10:04:10",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "bzqtzbxhow.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:03:43",
+      "expired_at": "2025-11-28 18:03:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "c29b13ey.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JCBカード",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:34",
+      "expired_at": "2025-11-29 17:16:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "callihangal.ixbwhli.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ゴールドポイントマーケティング",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:03:37",
+      "expired_at": "2025-11-28 18:03:35",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1638
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.12.187",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "cawdg.com",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:56:41",
+      "expired_at": "2025-11-26 18:56:34",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3130
+      },
+      "whois": {
+        "registrar": "Squarespace Domains II LLC",
+        "creation_date": "2020-12-30",
+        "expiration_date": "2025-12-30"
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "chheano.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:44",
+      "expired_at": "2025-11-30 07:15:50",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "cltfmt.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:32:28",
+      "expired_at": "2025-11-27 17:29:47",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cmjdqps.zydino.com",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:05:47",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1821
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cotjhe.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:50:16",
+      "expired_at": "2025-11-27 16:50:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cp-securemailactive-kagoya-net4929a7a.netlify.app",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "KAGOYA",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-21 18:04:29",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 9879
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "crmfdpgpu.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:43:11",
+      "expired_at": "2025-11-27 17:43:04",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cumulosure.yrelgnp.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ヨドバシドットコム",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:54:34",
+      "expired_at": "2025-11-26 18:54:29",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1638
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cutqpkeofu.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:01:10",
+      "expired_at": "2025-11-27 17:01:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "cyzmmm.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:45:19",
+      "expired_at": "2025-11-27 16:45:08",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "darfihi.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-23 07:15:49",
+      "expired_at": "2025-11-30 07:15:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "debeyypbx.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:29:41",
+      "expired_at": "2025-11-27 17:24:47",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "decideosity.ykdyrkye.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DHL",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:22",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1889
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.87.47",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "dhecm9o2.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "オリコ",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:48",
+      "expired_at": "2025-11-29 17:16:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "dhl-closeariu.kaixuankio.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DHL",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:07:33",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1889
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.33.50",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "dhl-septimdom.hudieyuedu.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DHL",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:40",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 2808
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.27.51",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "dhl-teletake.nuoshuan.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DHL",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 18:02:33",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 2808
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.11.149",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "dhzthvzz.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:18",
+      "expired_at": "2025-11-27 16:43:16",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "dinnerling.ykdrdxqw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANAマイレージクラブ",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:08:11",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1934
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.66.80",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "dioemdm.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:04:12",
+      "expired_at": "2025-11-29 10:04:10",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "diuaucy.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 21:35:05",
+      "expired_at": "2025-11-27 21:35:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "djiysdi.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:15",
+      "expired_at": "2025-11-27 17:19:12",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "dlfchr.dgyyyz.com",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:26:05",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1820
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.4.232",
+        "country": null,
+        "as_number": null,
+        "as_name": null
+      }
+    },
+    {
+      "domain": "dmtewo.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:46:10",
+      "expired_at": "2025-11-27 16:46:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "dominic.qhakzgg.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:41:53",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1692
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.4.53",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "duxmzxo.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:57:52",
+      "expired_at": "2025-11-27 17:57:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "dwrrcp.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:50",
+      "expired_at": "2025-11-29 10:11:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "dxiay.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:05:41",
+      "expired_at": "2025-11-28 18:05:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "eacga.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:56:30",
+      "expired_at": "2025-11-26 18:56:27",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "eadress.jauvywf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "マスターカード",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:46:13",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1524
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.48.127",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "eaoru.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:25",
+      "expired_at": "2025-11-27 16:44:24",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ebfbcsuttc.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:45",
+      "expired_at": "2025-11-28 18:06:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "edborg.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DMM",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:04:31",
+      "expired_at": "2025-11-30 07:04:25",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ejhfstg.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ファミリーマート",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:57",
+      "expired_at": "2025-11-29 17:14:19",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "eligqiq.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京ガス",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:05:10",
+      "expired_at": "2025-11-30 07:05:06",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "engyast.ykdglyzt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:37",
+      "expired_at": "2025-11-29 17:13:35",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1834
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.56.27",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "enuhl.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:03:00",
+      "expired_at": "2025-11-28 18:02:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "epmkowb.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 18:03:06",
+      "expired_at": "2025-11-29 18:03:03",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "falcality.fjfqdgw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京ガス",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:51",
+      "expired_at": "2025-11-29 17:13:50",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1952
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.23.148",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "fbbswfraca.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:43",
+      "expired_at": "2025-11-27 18:01:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "fevfgj.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DMM",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:03",
+      "expired_at": "2025-11-29 17:14:55",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "fikvyozunu.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:00:54",
+      "expired_at": "2025-11-27 16:59:17",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "filwtej.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "スマートEX",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:56",
+      "expired_at": "2025-11-29 17:13:55",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "fossitive.ykdwqwpd.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:32:40",
+      "expired_at": "2025-11-27 17:32:39",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2251
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "fsurw.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:11:40",
+      "expired_at": "2025-11-27 17:09:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ftkqong.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ファミリーマート",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:36:29",
+      "expired_at": "2025-11-27 16:46:28",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "fwdfuwb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 06:57:48",
+      "expired_at": "2025-11-30 07:15:52",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "fycrsdr.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JCBカード",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:54",
+      "expired_at": "2025-11-27 16:45:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "gdhfbvf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "メルカリ",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 18:03:10",
+      "expired_at": "2025-11-29 18:03:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "gjmvzb.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:49",
+      "expired_at": "2025-11-27 16:44:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "gjrtoius.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 23:13:12",
+      "expired_at": "2025-11-26 23:13:11",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "gscbymsc.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:50:06",
+      "expired_at": "2025-11-27 16:50:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "gunality.ykdxexkk.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:25",
+      "expired_at": "2025-11-29 17:14:24",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2251
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.73.14",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "gwfhhaute.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:39:53",
+      "expired_at": "2025-11-26 18:49:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.5.7",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "haarmlqtl.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:07",
+      "expired_at": "2025-11-27 16:43:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "hgdbaqq.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:48:38",
+      "expired_at": "2025-11-27 16:48:36",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "hioparqb.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 16:56:17",
+      "expired_at": "2025-11-27 16:56:16",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "houqyv.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:45:19",
+      "expired_at": "2025-11-27 16:45:08",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "hphxmju.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:02",
+      "expired_at": "2025-11-27 16:41:35",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "htoraum.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "佐川急便",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:39",
+      "expired_at": "2025-11-30 07:13:29",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.90.7",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "hxvgsrxi.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:33",
+      "expired_at": "2025-11-27 16:44:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "icloud.ctdlsb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:50",
+      "expired_at": "2025-11-30 07:13:32",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1692
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "icloud.gafta.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:12:58",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1692
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.29.13",
+        "country": null,
+        "as_number": null,
+        "as_name": null
+      }
+    },
+    {
+      "domain": "icloud.ln0mz.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:18",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1692
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "igdfxw.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 23:13:14",
+      "expired_at": "2025-11-26 23:13:13",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "iioneac.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:50:45",
+      "expired_at": "2025-11-27 16:50:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ilpwnkx.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ETC",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:13:05",
+      "expired_at": "2025-11-30 07:15:57",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "jal.csudw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JALマイレージバンク",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:46:05",
+      "expired_at": "2025-11-29 16:55:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1627
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jal.rxlsm.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JALマイレージバンク",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:55:17",
+      "expired_at": "2025-11-26 18:55:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1627
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jal.wqabh.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-21 18:08:43",
+      "expired_at": "2025-11-28 18:08:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1627
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jbojziw.velimso.cfd",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "松井証券",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:08",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1822
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jfxlny.gqqcfv.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:16:38",
+      "expired_at": "2025-11-29 17:16:37",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jjourey.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:32",
+      "expired_at": "2025-11-27 17:44:38",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.63.190",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "jjzmzhhun.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:51:42",
+      "expired_at": "2025-11-27 16:51:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jksehbtn.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 18:03:15",
+      "expired_at": "2025-11-29 18:03:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jqqhb.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 21:35:05",
+      "expired_at": "2025-11-27 21:35:04",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "jsrkugy.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:26",
+      "expired_at": "2025-11-27 16:35:23",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "jysjsj.cn",
+      "source": "SpamHaus",
+      "impersonated_target": "Visa",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:23",
+      "expired_at": "2025-11-30 07:12:04",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1433
+      },
+      "whois": {
+        "registrar": "广东时代互联科技有限公司",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "kapwk.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "メルカリ",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:36:20",
+      "expired_at": "2025-11-27 18:01:52",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3922
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "kd1tbyt2.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:36",
+      "expired_at": "2025-11-27 16:54:55",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "khgnlawhs.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:43",
+      "expired_at": "2025-11-27 18:01:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "kkgidfob.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:46:32",
+      "expired_at": "2025-11-27 17:45:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "kmnzwqi.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:01:05",
+      "expired_at": "2025-11-27 17:01:02",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "kthko.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:47:53",
+      "expired_at": "2025-11-27 16:47:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ktxeyop.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京ガス",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:59",
+      "expired_at": "2025-11-29 17:25:27",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "kucujsicze.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:05:39",
+      "expired_at": "2025-11-28 18:05:36",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "kybcroelrsxbhbun.net",
+      "source": "SpamHaus",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:48",
+      "expired_at": "2025-11-27 18:01:47",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 47
+      },
+      "whois": {
+        "registrar": "Gname.com Pte. Ltd.",
+        "creation_date": "2024-11-29",
+        "expiration_date": "2025-11-29"
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "l03m7b3a.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "スマートEX",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:42",
+      "expired_at": "2025-11-28 18:06:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "lacerespecially.sjjxyq.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "佐川急便",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:15",
+      "expired_at": "2025-11-29 17:13:14",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1645
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "lgt6yo0d.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ファミリーマート",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:51:03",
+      "expired_at": "2025-11-27 16:55:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "lmjrdcjg.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:55:32",
+      "expired_at": "2025-11-27 16:55:26",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "lobfkfbfho.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-23 07:15:49",
+      "expired_at": "2025-11-30 07:15:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "lwsvotn.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 16:56:11",
+      "expired_at": "2025-11-27 16:56:05",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "lystellless.emoxkuq.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ゴールドポイントマーケティング",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:50:57",
+      "expired_at": "2025-11-27 16:50:56",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1638
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.6.134",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "lzmynw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:05",
+      "expired_at": "2025-11-29 17:15:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3923
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "malleoability.ykdstuua.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "マスターカード",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:59:17",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1524
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.9.143",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "mbhwajidxd.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:50",
+      "expired_at": "2025-11-29 10:11:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "meoneency.zjhybw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:55:35",
+      "expired_at": "2025-11-27 16:55:33",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1834
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.85.79",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "midilet.scsxbsm.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ETC",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:55:17",
+      "expired_at": "2025-11-27 16:55:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2157
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.21.8",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "mnhlg.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:05:39",
+      "expired_at": "2025-11-28 18:05:36",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "mqgvobtq.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:07:43",
+      "expired_at": "2025-11-28 18:07:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "mqwccwh.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PayPay",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:13:18",
+      "expired_at": "2025-11-30 07:16:07",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.67.230",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "mrdgueh.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Visa",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:36:26",
+      "expired_at": "2025-11-27 18:03:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.1.210",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "mwepdtv9.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JALマイレージバンク",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:02:15",
+      "expired_at": "2025-11-27 17:01:29",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "nazoxghsi.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:42",
+      "expired_at": "2025-11-27 16:49:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ncludddeo.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:45",
+      "expired_at": "2025-11-28 18:06:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "odonkin.ykdrliob.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:11",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1934
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.64.139",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "oflwzbq.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:16:33",
+      "expired_at": "2025-11-29 17:16:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ohjabjir.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:26:00",
+      "expired_at": "2025-11-29 17:25:57",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "okmel.com",
+      "source": "SpamHaus",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:36:17",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 7156
+      },
+      "whois": {
+        "registrar": "InterNetX GmbH",
+        "creation_date": "2010-02-22",
+        "expiration_date": "2026-02-22"
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "olojjrpgr.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:12",
+      "expired_at": "2025-11-29 17:13:12",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "oponr.mokaira.cfd",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "松井証券",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:14",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1820
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.59.231",
+        "country": null,
+        "as_number": null,
+        "as_name": null
+      }
+    },
+    {
+      "domain": "oqvisoriv.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:48",
+      "expired_at": "2025-11-28 18:06:47",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "oytqc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "東京電力エナジーパートナー",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:22",
+      "expired_at": "2025-11-29 17:15:20",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3818
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "peakfication.ytbvgwg.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Visa",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:30",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1721
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.76.147",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "phogps.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:48:50",
+      "expired_at": "2025-11-27 16:48:49",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "phylact.fjcqdgw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ETC",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:37",
+      "expired_at": "2025-11-29 17:15:30",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2157
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.45.22",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "piecesure.kqpza.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "佐川急便",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:56",
+      "expired_at": "2025-11-27 16:44:55",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1645
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "pinnite.zjwqcjt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:46:08",
+      "expired_at": "2025-11-27 16:46:07",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1834
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "pjxqbkqtam.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:42:33",
+      "expired_at": "2025-11-27 16:42:22",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "protectary.yytxsb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Pocket Card",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:19:52",
+      "expired_at": "2025-11-27 17:19:15",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1780
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "pwsydhe.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:14:55",
+      "expired_at": "2025-11-26 18:49:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.30.110",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "pyrwwbcnb.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:56:00",
+      "expired_at": "2025-11-27 16:55:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "pyzptxelfi.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:15:27",
+      "expired_at": "2025-11-26 18:49:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.8.239",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "qhfzozfv.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:01:10",
+      "expired_at": "2025-11-27 17:01:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "qtewnjgmi.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-23 07:15:56",
+      "expired_at": "2025-11-30 07:15:55",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "qtxawghpu.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:33",
+      "expired_at": "2025-11-27 16:44:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "quvhjzqfh.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:50",
+      "expired_at": "2025-11-27 18:01:50",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "rarjzshf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "楽天",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:59",
+      "expired_at": "2025-11-30 07:12:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "rcafgkl.gqqcfv.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:42",
+      "expired_at": "2025-11-29 17:13:41",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "rcbhhuje.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:45:19",
+      "expired_at": "2025-11-27 16:45:08",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "rdkjuwr.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "オリコ",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:13:08",
+      "expired_at": "2025-11-30 07:13:06",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "remainize.ykddkxmn.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:47",
+      "expired_at": "2025-11-27 16:49:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1940
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.67.67",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "rezxymsootvdawr.net",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ANA",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:14:00",
+      "expired_at": "2025-11-29 17:13:57",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 47
+      },
+      "whois": {
+        "registrar": "Gname.com Pte. Ltd.",
+        "creation_date": "2024-11-29",
+        "expiration_date": "2025-11-29"
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "rklwgqt.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 16:56:56",
+      "expired_at": "2025-11-27 16:56:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "rmlvjtf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "セゾンカード",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:05:05",
+      "expired_at": "2025-11-30 07:16:04",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.88.210",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "rqkpick.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:46:32",
+      "expired_at": "2025-11-27 17:45:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "saelmr.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:55",
+      "expired_at": "2025-11-28 18:04:54",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "sagacshake.ispmv.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Pocket Card",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:48:25",
+      "expired_at": "2025-11-27 16:48:24",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1780
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "sagawa-essfulia.rppdos.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "佐川急便",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:32:34",
+      "expired_at": "2025-11-27 17:32:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2564
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.6.49",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "scabrition.0dn9u0p.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ヨドバシドットコム",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:15:45",
+      "expired_at": "2025-11-29 17:15:43",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1638
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.35.167",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "sdffpyl.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:04:52",
+      "expired_at": "2025-11-30 07:13:22",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "shdpgqh.uireok.com",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "NHK",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:31",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1821
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "sipimostform.ykdgmtma.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 21:35:11",
+      "expired_at": "2025-11-27 21:35:11",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1940
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "sjprxh.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:48:54",
+      "expired_at": "2025-11-27 16:48:53",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "slyco.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:50",
+      "expired_at": "2025-11-29 10:11:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "snjdmgkx.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:08:44",
+      "expired_at": "2025-11-27 17:08:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "stalact.sxcrcjt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ETC",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:13",
+      "expired_at": "2025-11-27 17:48:06",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2157
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.91.209",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "statementian.timaatuo.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "オリコ",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:47",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "style.ykdciqjd.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:58:59",
+      "expired_at": "2025-11-27 17:58:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 2251
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.96.103",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "tdnnqe.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:57:52",
+      "expired_at": "2025-11-27 17:57:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "telodbsa.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Visa",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:04:56",
+      "expired_at": "2025-11-30 07:04:53",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "tiycho.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:04:12",
+      "expired_at": "2025-11-29 10:04:10",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "tranling.gddycgw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:02:58",
+      "expired_at": "2025-11-28 18:02:57",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 1834
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "tyaroti.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:42",
+      "expired_at": "2025-11-27 16:49:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "tyta8tp7.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "日本郵政",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:39",
+      "expired_at": "2025-11-29 17:15:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "ueafakreet.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:08:17",
+      "expired_at": "2025-11-28 18:08:16",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "uksey.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:08:44",
+      "expired_at": "2025-11-27 17:08:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "unumany.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JCBカード",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:42",
+      "expired_at": "2025-11-30 07:12:53",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "uwlencaxn.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:16:19",
+      "expired_at": "2025-11-29 17:16:19",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "uxjgpbojqa.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:05:39",
+      "expired_at": "2025-11-28 18:05:36",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "uzzwjfuei.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:08:44",
+      "expired_at": "2025-11-27 17:08:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "v7vybjhg.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "JACCS",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:49:00",
+      "expired_at": "2025-11-27 16:49:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "vaewutb1.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "メルカリ",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:50:53",
+      "expired_at": "2025-11-27 16:55:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "vfhsgbm.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:18",
+      "expired_at": "2025-11-27 16:43:16",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "vhrdpoboox.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 16:57:09",
+      "expired_at": "2025-11-27 16:56:57",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "vincern.huwysrw.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Apple",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:13:54",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 1692
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "virbc.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:55:32",
+      "expired_at": "2025-11-27 16:55:26",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "visa-meterm.fydonv.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Visa",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:11",
+      "expired_at": "2025-11-30 06:57:09",
+      "url_status": {
+        "status": "online",
+        "http_status_code": 200,
+        "content_length": 2640
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "vvfxrca.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Amazon",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 17:14:23",
+      "expired_at": "2025-11-29 17:16:01",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3924
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "wadngpn.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-19 18:56:33",
+      "expired_at": "2025-11-26 18:56:30",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "wlgfmiv.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:32:30",
+      "expired_at": "2025-11-27 17:32:29",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "wtmfv4sp.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:35:17",
+      "expired_at": "2025-11-27 16:54:52",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3821
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.12.76",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "xnxss.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:01:10",
+      "expired_at": "2025-11-27 17:01:09",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "xpgswzgqit.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:56:00",
+      "expired_at": "2025-11-27 16:55:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "xphmumtj.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-23 07:15:49",
+      "expired_at": "2025-11-30 07:15:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "xsmafka.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:20",
+      "expired_at": "2025-11-28 18:06:19",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "xszqv.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:49:42",
+      "expired_at": "2025-11-27 16:49:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "xtihgxxx.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:57:52",
+      "expired_at": "2025-11-27 17:57:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "y3ee447f.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "Pocket Card",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:28",
+      "expired_at": "2025-11-30 07:13:27",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "y6ee4x03.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "DHL",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:49",
+      "expired_at": "2025-11-30 07:12:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "yablt.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:44",
+      "expired_at": "2025-11-30 07:12:43",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ybevu.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-16",
+      "registered_at": "2025-11-20 17:46:32",
+      "expired_at": "2025-11-27 17:45:46",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "yczjf.rmrglpf.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "LINE",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:34",
+      "expired_at": "2025-11-28 18:04:33",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ymangwi.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-23",
+      "registered_at": "2025-11-23 07:12:57",
+      "expired_at": "2025-11-30 07:13:20",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "ynxcvp.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:18",
+      "expired_at": "2025-11-27 16:43:16",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "yomwu.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:06:45",
+      "expired_at": "2025-11-28 18:06:44",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "yrlmnezp.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:08:28",
+      "expired_at": "2025-11-28 18:08:27",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ywoki.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:20:22",
+      "expired_at": "2025-11-26 18:49:50",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.68.29",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "ywzsrxz.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:55:32",
+      "expired_at": "2025-11-27 16:55:26",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "yzgivbg.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "えきねっと（JR東日本）",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:15:50",
+      "expired_at": "2025-11-26 18:49:50",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3820
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": {
+        "ip_address": "104.21.50.118",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "yzlhxv.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:08:20",
+      "expired_at": "2025-11-28 18:08:19",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "z4js0tk1.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "ヨドバシカメラ",
+      "sent_date": "2025-11-22",
+      "registered_at": "2025-11-22 10:11:32",
+      "expired_at": "2025-11-30 07:15:45",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3925
+      },
+      "whois": {
+        "registrar": "阿里云计算有限公司（万网）",
+        "creation_date": null,
+        "expiration_date": null
+      },
+      "ip_info": null
+    },
+    {
+      "domain": "zdabdfoezt.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-17 13:14:55",
+      "expired_at": "2025-11-26 18:49:47",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": {
+        "ip_address": "104.21.51.120",
+        "country": "US",
+        "as_number": 7018,
+        "as_name": "AT&T Enterprises, LLC"
+      }
+    },
+    {
+      "domain": "zfjpjf.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-22 17:25:33",
+      "expired_at": "2025-11-29 17:25:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3932
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zilee.jgwsvgb.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "国税庁",
+      "sent_date": "2025-11-19",
+      "registered_at": "2025-11-20 16:48:52",
+      "expired_at": "2025-11-27 16:48:51",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "ziyfz.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 18:01:43",
+      "expired_at": "2025-11-27 18:01:42",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3930
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zlnhb.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:51:26",
+      "expired_at": "2025-11-27 16:51:25",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zmqrmjctja.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-21",
+      "registered_at": "2025-11-21 18:04:37",
+      "expired_at": "2025-11-28 18:04:36",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3936
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zpfepgoi.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:44:33",
+      "expired_at": "2025-11-27 16:44:32",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3933
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zpjjt.idmt34tc.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "PlayStation Store",
+      "sent_date": "2025-11-20",
+      "registered_at": "2025-11-20 16:43:49",
+      "expired_at": "2025-11-27 16:43:48",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3931
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zrbntcbtk.iyfq3d6j.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "宝くじ公式サイト",
+      "sent_date": "2025-11-17",
+      "registered_at": "2025-11-20 17:24:42",
+      "expired_at": "2025-11-27 17:24:40",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3935
+      },
+      "whois": null,
+      "ip_info": null
+    },
+    {
+      "domain": "zuuzmetsp.ihsnoxt.cn",
+      "source": "ヒューリスティック判定",
+      "impersonated_target": "任天堂",
+      "sent_date": "2025-11-18",
+      "registered_at": "2025-11-20 16:56:00",
+      "expired_at": "2025-11-27 16:55:58",
+      "url_status": {
+        "status": "empty_content",
+        "http_status_code": 200,
+        "content_length": 3934
+      },
+      "whois": null,
+      "ip_info": null
+    }
+  ],
+  "count": 224,
+  "exported_at": "2025-11-23T07:55:22.061638",
+  "filter_criteria": {
+    "registered_within_days": 7,
+    "url_status": [
+      "online",
+      "empty_content"
+    ]
+  }
+}

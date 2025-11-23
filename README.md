@@ -1,12 +1,17 @@
-# 概要
-AD-CTDは、株式会社アクティブディフェンス研究所が、インターネットから弊社独自の技術とOSSを組み合わせた観測システムにて、悪性広告、スパム、Exploit Kitを経路としたマルウェア感染に関する脅威情報を収集、提供するサービスです。弊社の研究調査から、いわゆるバラ撒き型においても、国や地域によって観測されるサイバー攻撃に偏りがあり、弊社では主に日本からの観測できるオープンな脅威についてフォーカスしています。AD-CTDでは、観測した情報を元に、他の公開情報及び攻撃手法の詳細化を図り、その付加情報を加えた上で配信しております。
+# 概要え
+AD-CTDは、株式会社アクティブディフェンス研究所がインターネットから弊社独自の技術とOSSを組み合わせた観測システムにて、スパムメールを経路としたマルウェア感染に関する脅威情報を収集、提供するサービスです。弊社の研究調査から、いわゆるバラ撒き型においても、国や地域によって観測されるサイバー攻撃に偏りがあり、弊社では主に日本からの観測できるオープンな脅威についてフォーカスしています。AD-CTDでは、観測した情報を元に、他の公開情報及び攻撃手法の詳細化を図り、その付加情報を加えた上で配信しております。
 
 # Active Defense Cyber Tactical Database API仕様及びJSONクライアント
-ドキュメント: [https://www.activedefense.co.jp/adctd-api-spec/][1]
+ドキュメント: docs/adctdv3.md
 
-SchemaがUndefinedとなっていますが、▶を二度クリックすると表示されます。
+# API 呼び出し結果サンプル
+- samples/apiresult.json
 
 # APIエンドポイント
+## v3(最新)
+- https://api.ctd.activedefense.co.jp/v3/phishingjp/
+
+
 ## v2(最新)
 - https://api.ctd.activedefense.co.jp/v2/malicious/uri
 
@@ -15,8 +20,7 @@ SchemaがUndefinedとなっていますが、▶を二度クリックすると�
 
 # API Callサンプル
 ```
-$ curl https://api.ctd.activedefense.co.jp/v2/malicious/uri?type=ek \                                 
-  --header 'x-api-key:YOUR_ACCESS_KEY_FOR_ADCTD'
+$ curl -s -H "x-api-key: YOUR_ACCESS_KEY_FOR_ADCTD" https://api.ctd.activedefense.co.jp/v3/phishingjp/ 
 ```
 
 # 費用
@@ -57,17 +61,21 @@ Our observation system observe malvertising, malspam and Exploit Kits. Our API s
 AD-CTD API provides as JSON format only.
 
 # Active Defense Cyber Tactical Database API Specification and API clients
-Swagger generated docs: [https://www.activedefense.co.jp/adctd-api-spec/][1]
+Document: docs/adctdv3.md
 If you see "Undefined" in Schema, please twice click to Schema triangle.
 
 # API Endpoints
-- https://api.ctd.activedefense.co.jp/v2/malicious/uri
+## v3(最新)
+- https://api.ctd.activedefense.co.jp/v3/phishingjp/
+
+# API Result Sample
+- samples/apiresult.json
 
 # API Call Sample
 ```
-$ curl https://api.ctd.activedefense.co.jp/v2/malicious/uri?type=ek \                                 
-  --header 'x-api-key:YOUR_ACCESS_KEY_FOR_ADCTD'
+$ curl -s -H "x-api-key: YOUR_ACCESS_KEY_FOR_ADCTD" https://api.ctd.activedefense.co.jp/v3/phishingjp/ 
 ```
+
 # Subscriptions
 ## No redistribution License
 - Price: 3200 USD/Month

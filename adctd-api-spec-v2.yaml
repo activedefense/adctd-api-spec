@@ -1,7 +1,7 @@
 swagger: "3.0"
 info:
   description: "Look up Malicious URI in Cyber Tactical Database"
-  version: "2.0.0"
+  version: "2.1.0"
   title: "Cyber Tactical Database API"
   termsOfService: ""
   contact:
@@ -98,7 +98,60 @@ definitions:
           description: Related CVE Number
         example: ["CVE-2018-0000"]
 
-  
+definitions:
+  MaliciousDomain:
+    type: object
+    properties:
+      id:
+        type: string
+        format: uuid
+        description: Unique id of ADCTD
+        # readOnly: true
+        example: dd01da19-ef8a-4583-adbc-d7a47c76adcb
+        
+      type:
+        type: string
+        description: type of Indicator
+        # readOnly: true
+        example: domain
+
+      domain:
+        type: string
+        format: hostname
+        description: Malicious resource contained domain
+        # readOnly: true
+        example: worth.lobelqq.sample
+
+      description: 
+        type: string
+        description: Campaign, Tool Kit, or Species if indentified
+        example: Lucky Visitor
+
+      confidence:
+        type: string
+        description: high, medium, low
+        example: high
+
+      created_at:
+        type: string
+        format: date-time
+        description: created datetime of this entry 
+        example: 2022-05-01T00:00:00Z
+        # readOnly: true
+        # example: 2018-06-01T00:00:00Z
+      updated_at:
+        type: string
+        format: date-time
+        description: updated datetime of this entry 
+        example: 2022-05-01T00:00:00Z
+        # readOnly: true
+        # example: 2018-06-01T00:00:00Z
+      expire_at:
+        type: string
+        format: date-time
+        description: expire datetime of this entry
+        example: 2022-05-14T00:00:00Z
+        # readOnly: true
 
 securityDefinitions:
    # X-API-Key: abcdef12345
@@ -151,3 +204,24 @@ paths:
             items:
               $ref: '#/definitions/MaliciousUri'
 
+  /malicious/domain:
+    get:
+      tags: [MaliciousDomain]
+      summary: List of Malicious Entry Domain in Cyber Tactical Database
+      description: Return list of Malicious Entry Domain in Cyber Tactical Database
+      produces:
+      - application/json
+      operationId: GetMaliciousDomains
+      parameters:
+        - in: query
+          name: type
+          schema:
+            type: string
+          description: \"scam\" or \"phishing\" is supported. If specified \"ek\", you can get Exploit Kit related uri lists. If specified \"dl_malware\", you can get malware related uri lists. 
+      responses:
+        '200':
+          description: successful operation
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/MaliciousDomain'
