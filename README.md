@@ -2,10 +2,10 @@
 AD-CTDは、株式会社アクティブディフェンス研究所がインターネットから弊社独自の技術とOSSを組み合わせた観測システムにて、スパムメールを経路としたマルウェア感染に関する脅威情報を収集、提供するサービスです。弊社の研究調査から、いわゆるバラ撒き型においても、国や地域によって観測されるサイバー攻撃に偏りがあり、弊社では主に日本からの観測できるオープンな脅威についてフォーカスしています。AD-CTDでは、観測した情報を元に、他の公開情報及び攻撃手法の詳細化を図り、その付加情報を加えた上で配信しております。
 
 # Active Defense Cyber Tactical Database API仕様及びJSONクライアント
-ドキュメント: [[adctd-api-spec-latest.yaml]]
+ドキュメント: [APISPEC](adctd-api-spec-latest.yaml)
 
 # API 呼び出し結果サンプル
-- samples/apiresult.json
+- [sample.json](samples/apiresult.json)
 
 # APIエンドポイント
 ## v3(最新)
